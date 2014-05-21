@@ -1,0 +1,18 @@
+#seizure{
+    text-align: center;
+}
+#seizure h1 p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#seizure .advice{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5em;
+}
+#seizure #time{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 3em;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
